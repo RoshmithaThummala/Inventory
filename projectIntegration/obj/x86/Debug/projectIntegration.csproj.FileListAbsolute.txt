@@ -1,0 +1,133 @@
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Customer.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.Properties.Resources.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderWith_shipping_details.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\checkbox\projectIntegration\projectIntegration\bin\Debug\projectIntegration.exe
+D:\checkbox\projectIntegration\projectIntegration\bin\Debug\projectIntegration.pdb
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Location.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PaymentTerms.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Pricing.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Taxing.resources
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+D:\checkbox\projectIntegration\projectIntegration\obj\x86\Debug\Customer_Project.Address.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\bin\Debug\projectIntegration.exe
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\bin\Debug\projectIntegration.pdb
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Customer.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Location.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PaymentTerms.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Pricing.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.Properties.Resources.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderWith_shipping_details.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Taxing.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.salesquote.resources
+C:\Users\sandeep\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Address.resources
+C:\Users\sandeep\Desktop\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+C:\Users\sandeep\Desktop\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Address.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Customer.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Location.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PaymentTerms.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Pricing.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.Properties.Resources.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PurhcaseOrder.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderWith_shipping_details.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.salesquote.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Taxing.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.VendorInfo.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.ProductInfoorNewProduct.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\bin\Debug\projectIntegration.exe
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\bin\Debug\projectIntegration.pdb
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.purchaseorderlist.resources
+C:\Users\Public\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.vendorlist.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\bin\Debug\projectIntegration.exe
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\bin\Debug\projectIntegration.pdb
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Address.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Customer.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Location.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.ProductInfoorNewProduct.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PaymentTerms.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Pricing.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.Properties.Resources.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.purchaseorderlist.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PurhcaseOrder.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderWith_shipping_details.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.salesquote.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Taxing.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.VendorInfo.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.vendorlist.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.csproj.GenerateResource.Cache
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.CustomerList.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderList.resources
+C:\Users\Public\project 11-12-2015\New folder\project 11-12-2015\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.csprojResolveAssemblyReference.cache
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\bin\Debug\projectIntegration.exe
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\bin\Debug\projectIntegration.pdb
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Address.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Customer.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.CustomerList.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Location.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.ProductInfoorNewProduct.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PaymentTerms.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Pricing.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.Properties.Resources.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.purchaseorderlist.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PurhcaseOrder.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderWith_shipping_details.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderList.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.salesquote.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Taxing.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.VendorInfo.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.vendorlist.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\ProductCategory.AddNewNode.resources
+C:\Users\Roshmitha\Desktop\projectIntegration\projectIntegration\obj\x86\Debug\ProductCategory.Form1.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+D:\Gowtham\projectIntegration\projectIntegration\bin\Debug\projectIntegration.exe
+D:\Gowtham\projectIntegration\projectIntegration\bin\Debug\projectIntegration.pdb
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.csprojResolveAssemblyReference.cache
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\ProductCategory.AddNewNode.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Address.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Customer.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.CustomerList.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\ProductCategory.Form1.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Location.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.ProductInfoorNewProduct.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PaymentTerms.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Pricing.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.Properties.Resources.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.purchaseorderlist.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.PurhcaseOrder.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderWith_shipping_details.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.SaleOrderList.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.salesquote.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Taxing.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.VendorInfo.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.vendorlist.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.csproj.GenerateResource.Cache
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Product_List.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.Reorder_Stock.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.currentstock.resources
+D:\Gowtham\projectIntegration\projectIntegration\obj\x86\Debug\InventoryTools.movementhistory.resources
+H:\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+H:\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb
+G:\Roshi\Windows\Projects\Inventory\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.exe
+G:\Roshi\Windows\Projects\Inventory\projectIntegration\projectIntegration\obj\x86\Debug\projectIntegration.pdb

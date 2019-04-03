@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{64077357-6DE0-47CE-824D-5FFC867256AD}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>projectIntegration</RootNamespace>
+    <AssemblyName>projectIntegration</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddNewNode.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddNewNode.designer.cs">
+      <DependentUpon>AddNewNode.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Address.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Address.designer.cs">
+      <DependentUpon>Address.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BAL.cs" />
+    <Compile Include="currentstock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="currentstock.designer.cs">
+      <DependentUpon>currentstock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer.designer.cs">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomerList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomerList.designer.cs">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DAL.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Location.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Location.designer.cs">
+      <DependentUpon>Location.cs</DependentUpon>
+    </Compile>
+    <Compile Include="movementhistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="movementhistory.designer.cs">
+      <DependentUpon>movementhistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewProduct.designer.cs">
+      <DependentUpon>NewProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaymentTerms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PaymentTerms.designer.cs">
+      <DependentUpon>PaymentTerms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pricing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pricing.designer.cs">
+      <DependentUpon>Pricing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product List.designer.cs">
+      <DependentUpon>Product List.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="purchaseorderlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="purchaseorderlist.designer.cs">
+      <DependentUpon>purchaseorderlist.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PurhcaseOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PurhcaseOrder.designer.cs">
+      <DependentUpon>PurhcaseOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reorder Stock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reorder Stock.designer.cs">
+      <DependentUpon>Reorder Stock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleOrder.designer.cs">
+      <DependentUpon>SaleOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaleOrderList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SaleOrderList.designer.cs">
+      <DependentUpon>SaleOrderList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="salesquote.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="salesquote.designer.cs">
+      <DependentUpon>salesquote.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Taxing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Taxing.designer.cs">
+      <DependentUpon>Taxing.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VendorInfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VendorInfo.designer.cs">
+      <DependentUpon>VendorInfo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="vendorlist.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="vendorlist.designer.cs">
+      <DependentUpon>vendorlist.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AddNewNode.resx">
+      <DependentUpon>AddNewNode.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Address.resx">
+      <DependentUpon>Address.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="currentstock.resx">
+      <DependentUpon>currentstock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer.resx">
+      <DependentUpon>Customer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomerList.resx">
+      <DependentUpon>CustomerList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Location.resx">
+      <DependentUpon>Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="movementhistory.resx">
+      <DependentUpon>movementhistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewProduct.resx">
+      <DependentUpon>NewProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PaymentTerms.resx">
+      <DependentUpon>PaymentTerms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pricing.resx">
+      <DependentUpon>Pricing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product List.resx">
+      <DependentUpon>Product List.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="purchaseorderlist.resx">
+      <DependentUpon>purchaseorderlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PurhcaseOrder.resx">
+      <DependentUpon>PurhcaseOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reorder Stock.resx">
+      <DependentUpon>Reorder Stock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleOrder.resx">
+      <DependentUpon>SaleOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SaleOrderList.resx">
+      <DependentUpon>SaleOrderList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="salesquote.resx">
+      <DependentUpon>salesquote.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Taxing.resx">
+      <DependentUpon>Taxing.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VendorInfo.resx">
+      <DependentUpon>VendorInfo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="vendorlist.resx">
+      <DependentUpon>vendorlist.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
